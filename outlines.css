@@ -8,7 +8,7 @@ body {
 
 body {
   min-width: 430px;
-  border: 2px dashed #c7e4ff;
+  border: 2px dashed #000000;
 }
 
 html::before,
@@ -22,7 +22,7 @@ main::before {
 main,
 header,
 footer {
-  background-color: #f3faff;
+  background-color: #000000;
   border: 2px solid #7fc1ff;
 }
 
@@ -45,7 +45,7 @@ h1,
 h2,
 h3 {
   font-size: 18px;
-  background-color: #ffffff;
+  background-color: #000000;
   border: 2px solid #ff994f;
 }
 
